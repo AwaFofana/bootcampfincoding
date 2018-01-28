@@ -1,0 +1,38 @@
+.avatar-grand{
+	width: 200px;
+	border-radius: 50%;
+	border: 1px solid white;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+}
+.btn-medium{
+		color: black;
+		border: 1px solid #999999;
+		padding: 20px 25px ;
+		border-radius: 50px;
+		font-weight: lighter;
+		opacity: 0,6;
+		text-decoration: none;
+             }
+  .navbar1-default
+{	
+	color:black;
+	margin-top:20px;
+	font-size: 15px;
+	padding: 15px;
+
+}
+.avatar-moyen{
+	width: 300px;
+	border-radius: 50%;
+	border: 1px solid white;
+	box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+}
+
+.myrow{
+	background-color:silver; 
+	border-radius: 50%;
+	box-shadow: 10%;
+	
+
+
+}
